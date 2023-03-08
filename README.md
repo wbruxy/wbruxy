@@ -1,16 +1,23 @@
-### Hi there 👋
+## Oii eu sou a Bruna Silva
 
-<!--
-**wbruxy/wbruxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>  
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=wbruxy&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=F7F7F7&bg_color=000000" alt="Bruna Silva github stats"/> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbruxy&layout=compact&hide_border=true&title_color=9400D3&text_color=F7F7F7&bg_color=000000"/>
+</div>
 
-Here are some ideas to get you started:
+ ### Main skills:
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=8411FA&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20&labelColor=0D1117)&nbsp; 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  <a href="https://www.instagram.com/wbruxy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruna-silva-1a8462211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brunacdasilvaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wbruxy&bg_color=000000&color=ffffff&line=9400d3&point=9400d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
