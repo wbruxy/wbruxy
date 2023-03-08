@@ -23,4 +23,3 @@
 
 ![Snake animation](https://github.com/wbruxy/wbruxy/blob/output/github-contribution-grid-snake.svg)
 
-
