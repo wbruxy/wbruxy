@@ -1,4 +1,4 @@
-## Olá! eu sou a Bruna Silva
+## Olá! eu sou a Bruna Silva 
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbruxy&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=F7F7F7&bg_color=000000" alt="Bruna Silva github stats"/> 
@@ -20,3 +20,4 @@
   <a href="https://www.linkedin.com/in/bruna-silva-1a8462211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunacdasilvaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
