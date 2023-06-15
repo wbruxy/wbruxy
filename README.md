@@ -1,8 +1,8 @@
 ## Olá! eu sou a Bruna Silva 
 
 <div>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wbruxy&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=F7F7F7&bg_color=000000" alt="Bruna Silva github stats"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wbruxy&layout=compact&hide_border=true&title_color=9400D3&text_color=F7F7F7&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wbruxy&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=F7F7F7&bg_color=000000" alt="Bruna Silva github stats"/> 
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wbruxy&layout=compact&hide_border=true&title_color=9400D3&text_color=F7F7F7&bg_color=000000"/>
 </div>
 
 ### Skills:
